@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Dio or @dambudi
-- 👀 I’m interested in front-end development and user experience design
-- 🌱 I’m currently learning Javascript mainly
-- 💞️ I’m looking to collaborate on not sure yet
-- 📫 How to reach me on Discord Doi#7456
+# Heyo! I’m Dio 🤠
+<h3>I'm a UI/UX Designer and Front-End Developer based in New Zealand</h3>
 
-<!---
-dambudi/dambudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I'm learning now
+I'm currently improving my skills in JavaScript. Soon to start learning React and Node.js
+
+<h4><a href="https://dioambudi.com">Website</a> • <a href="https://www.linkedin.com/in/dioambudi/">LinkedIn</a> • <a href="https://instagram.com/dioambudi/">Instagram</a> • Discord: Doi#7456</h4>
