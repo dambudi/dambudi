@@ -1,5 +1,5 @@
 # Heyo! I’m Dio 🤠
-<h3>I'm a UI/UX Designer and Front-End Developer based in New Zealand</h3>
+<h3>I'm a UX Designer and occasional Front-End Dev based in New Zealand</h3>
 
 ## What I'm learning now
 I'm currently improving my skills in JavaScript. Soon to start learning React and Node.js
